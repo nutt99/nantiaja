@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/icon.png-487276ed1e3a0c39cad0279d744ee560.stex"
+path="res://.import/kbrown_laser-Sheet.png-3b82d9ad663008b0fc555119f663ee0c.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://icon.png"
-dest_files=[ "res://.import/icon.png-487276ed1e3a0c39cad0279d744ee560.stex" ]
+source_file="res://assets/kbrown_laser-Sheet.png"
+dest_files=[ "res://.import/kbrown_laser-Sheet.png-3b82d9ad663008b0fc555119f663ee0c.stex" ]
 
 [params]
 
